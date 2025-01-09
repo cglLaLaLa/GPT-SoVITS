@@ -3,7 +3,7 @@
 import grpc
 import warnings
 
-import start_slice_pb2 as start__slice__pb2
+import New_api_cgl.internal.common.genproto.slice_pb.start_slice_pb2 as start__slice__pb2
 
 GRPC_GENERATED_VERSION = '1.69.0'
 GRPC_VERSION = grpc.__version__
